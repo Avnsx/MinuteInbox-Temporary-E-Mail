@@ -55,3 +55,6 @@ If there is weird special characters in the subject or the senders name, MinuteI
 
 ## Additional Knowledge
 Dependant on how many people show me that they're liking the code by giving ⭐'s on this repo, I'll expand functionality & push more quality of life updates.
+
+## Disclaimer
+I'm not associated in any way with MinuteInbox.com, if requested by them I will take down this repository. For this case please prove your Identity and send me an E-Mail. You can check my profile to find it.
