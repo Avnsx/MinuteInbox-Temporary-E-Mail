@@ -8,7 +8,7 @@ Create temporary e-mails and receive e-mails with MinuteInbox through python! It
 	pip install bs4
 
 ## Example
-Download the Repo and move minuteinbox.py into whatever directory you would like to use it in or directly into ``C:\Program Files\Python39\Lib\site-packages``.
+Download the Repo and move minuteinbox.py into whatever directory you would like to use it in or directly into ``Python39\Lib\site-packages``.
 Afterwards you'll be able to use it just as in the following example:
 
 ```python
