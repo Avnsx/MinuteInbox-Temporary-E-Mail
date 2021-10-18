@@ -3,14 +3,12 @@
 ## Description
 Create temporary e-mails and receive e-mails with MinuteInbox through python! It also parses the E-Mail adress MinuteInbox created for you; so you can directly access last and first name. And incase you needed it, it creates a company name out of them too 🎉
 
-## Dependencies
-
-	pip install bs4
 ## Installation
 Install python and tick pip in the python installer. Afterwards you will be able to install this repo just by pasting below into ``cmd.exe``
 ```
 pip install minuteinbox_py
 ```
+``bs4`` is a required dependency, if you're downloading the repo through github.
 ## Example
 ```python
 from minuteinbox import create_email, get_inbox
