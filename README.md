@@ -1,4 +1,4 @@
-# MinuteInbox Temporary E-Mail
+# MinuteInbox Temporary E-Mail ![pyver](https://img.shields.io/pypi/pyversions/minuteinbox_py?style=flat-square) ![pypidowns](https://img.shields.io/pypi/dm/minuteinbox_py?style=flat-square)
 ![GitHub Banner](https://repository-images.githubusercontent.com/380415345/e7d19f80-d64e-11eb-9c43-8a4af65c2a7a)
 ## Description
 Create temporary e-mails and receive e-mails with MinuteInbox through python! It also parses the E-Mail adress MinuteInbox created for you; so you can directly access last and first name. And incase you needed it, it creates a company name out of them too 🎉
