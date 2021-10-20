@@ -15,6 +15,7 @@ from minuteinbox import create_email, get_inbox
 from time import sleep as s
 
 # create an email
+# 1st way
 minuteinbox = create_email()
 if minuteinbox:
 	email = minuteinbox.get('email')
@@ -22,7 +23,8 @@ if minuteinbox:
 	last_name = minuteinbox.get('lname')
 	company_name = minuteinbox.get('company')
 	print('Current E-Mail: '+email+'\n'+'First & Last Name: '+first_name+' '+last_name+'\n'+'Company Name: '+company_name)
-
+# 2nd short way
+create_email().get('email')
 
 # get received email body
 while True:
