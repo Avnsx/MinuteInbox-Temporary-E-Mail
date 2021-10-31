@@ -1,5 +1,7 @@
-# MinuteInbox Temp E-Mail ![pyver](https://img.shields.io/pypi/pyversions/minuteinbox_py?style=flat-square) ![pypidowns](https://img.shields.io/pypi/dm/minuteinbox_py?style=flat-square) <a href="https://www.buymeacoffee.com/Avnsx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="100"></a> ![Stars](https://img.shields.io/github/stars/Avnsx/MinuteInbox-Temporary-E-Mail?style=flat-square&label=⭐%20Stars&color=ffc83d) [![Discord](https://img.shields.io/discord/522310203828338701?color=6A7EC2&label=Discord&logo=discord&logoColor=ffffff&style=flat-square)](https://discord.gg/Dr8wt84z2E)
-![GitHub Banner](https://repository-images.githubusercontent.com/380415345/e7d19f80-d64e-11eb-9c43-8a4af65c2a7a) 
+# MinuteInbox Temp E-Mail
+![pyver](https://img.shields.io/pypi/pyversions/minuteinbox_py?style=flat-square) ![pypidowns](https://img.shields.io/pypi/dm/minuteinbox_py?style=flat-square) <a href="https://www.buymeacoffee.com/Avnsx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="100"></a> ![Stars](https://img.shields.io/github/stars/Avnsx/MinuteInbox-Temporary-E-Mail?style=flat-square&label=⭐%20Stars&color=ffc83d) [![Discord](https://img.shields.io/discord/522310203828338701?color=6A7EC2&label=Discord&logo=discord&logoColor=ffffff&style=flat-square)](https://discord.gg/Dr8wt84z2E)
+
+![GitHub Banner](https://repository-images.githubusercontent.com/380415345/e7d19f80-d64e-11eb-9c43-8a4af65c2a7a)
 ## Description
 Create temporary e-mails and receive e-mails with MinuteInbox through python! It also parses the E-Mail email address MinuteInbox created for you; so you can directly access last and first name. And in case you needed it, it creates a company name out of them too 🎉
 
